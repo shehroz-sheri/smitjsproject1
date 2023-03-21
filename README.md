@@ -1,0 +1,1 @@
+This is the repository for JS Project 1 SMIT.

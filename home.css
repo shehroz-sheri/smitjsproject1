@@ -1,0 +1,19 @@
+#result-box{
+    min-height: 190px;
+}
+
+#twoBtn{
+    padding: 25px 0;
+}
+
+#clear-btn-2:hover{
+    color: white;
+    background: #000;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+}
